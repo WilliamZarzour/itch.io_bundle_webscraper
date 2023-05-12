@@ -5,7 +5,7 @@ Collects the Game Title, Game Description, Game Author, Link.
 
 To run this project:
 
-1. You will need python (make sure to have the PATH checked) 
+1. You will need python (make sure to have the PATH checked when installing) 
 
 2. To install dependencies inside a terminal run the following command  
     `pip install pandas beautifulsoup4`
