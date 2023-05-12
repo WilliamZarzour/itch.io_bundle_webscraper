@@ -11,7 +11,8 @@ To run this project:
     `pip install pandas beautifulsoup4`
 
 
-3. Find your account cookie info and save it in the Cookie.txt file. **WARNING: Do not share this cookie with anyone or post it online!!!**
+3. Find your account cookie info and save it in the Cookie.txt file.
+**WARNING: Do not share this cookie with anyone or post it online!!!**
     - Make sure you are logged out of Itch.io
 
     - Go to the bundle link (if you are logged out you wont see the bundle)
