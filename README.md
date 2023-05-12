@@ -12,16 +12,14 @@ To run this project:
 
 
 3. Find your account cookie info and save it in the Cookie.txt file.
-**WARNING: Do not share this cookie with anyone or post it online!!!**
-    - Make sure you are logged out of Itch.io
 
-    - Go to the bundle link (if you are logged out you wont see the bundle)
+    - **WARNING: Do not share this cookie with anyone or post it online!!!**
+    
+    - Go to the bundle link and log in.
 
-    - Before logging in inspect element for website (left click and inspect element or hit f12 on the website)
+    - Inspect the website by left clicking and clicking inspect or hit f12 on the website.
 
-    - Go to the network Tab and keep it open (the tab will likely be blank)
-
-    - Log into the bundle. It should now see network was populated with information. 
+    - Go to the network tab and keep it open. It should be populated with information. If not refresh the page
 
     - Click on your profile at the top of the "name" column 
 
